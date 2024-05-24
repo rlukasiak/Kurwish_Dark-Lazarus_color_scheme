@@ -2,6 +2,7 @@
 A dark color scheme for Lazarus IDE, clean, neat and featuring subdued colors.
 
 ![Screenshot](Screenshots/Kurwish.png)
+(the screenshot features [Consolas](https://cofonts.net/consolas-font/) but obviously the color scheme goes with any other font as well)
 
 
 How to use:
