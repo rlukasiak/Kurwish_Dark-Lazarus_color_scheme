@@ -1,6 +1,8 @@
 # Kurwish_Dark-Lazarus_color_scheme
 A dark color scheme for Lazarus IDE, clean, neat and featuring subdued colors.
+
 ![Screenshot](Screenshots/Kurwish.png)
+
 
 How to use:
 1. Create folder {LAZARUS_CONF_DIR}\userschemes.
