@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="13">
+      <Names Count="1">
+        <Item1 Value="Kurwish_Dark"/>
+      </Names>
+      <Globals Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="8936238" Style="fsBold" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaCodeFoldingTree Foreground="clSilver"/>
+          <ahaDefault Background="1775120" Foreground="15658734"/>
+          <ahaDisabledBreakpoint Background="2752653" Foreground="8947848" Style="fsItalic" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
+          <ahaEnabledBreakpoint Background="2752653" Foreground="14540253" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
+          <ahaErrorLine Background="2315748" Foreground="14540253" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
+          <ahaExecutionPoint Background="9199406" Foreground="15658734" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaFoldedCode Foreground="clSilver" FrameColor="clSilver" BackPriority="8000" ForePriority="8000" FramePriority="8000"/>
+          <ahaGutter Background="clBlack"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaHighlightAll Background="34952" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIdentComplWindowBorder Foreground="7039851"/>
+          <ahaIdentComplWindowHighlight Foreground="45056"/>
+          <ahaIfDefBlockActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaIfDefBlockInactive Foreground="clBlack" BackPriority="9050" ForePriority="9050" FramePriority="9050" ForeAlpha="150"/>
+          <ahaIfDefBlockTmpActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaIfDefNodeActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaIfDefNodeInactive BackPriority="9150" ForePriority="9150" FramePriority="9150"/>
+          <ahaIfDefNodeTmpActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaIncrementalSearch Background="34816" Foreground="clWhite" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaInvalidBreakpoint Background="2752653" Foreground="5921535" Style="fsItalic" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
+          <ahaLineHighlight Background="2235156" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaModifiedLine Foreground="clGreen" FrameColor="59900"/>
+          <ahaMouseLink Foreground="13553152" FrameColor="13553152" FrameEdges="sfeBottom" BackPriority="2500" ForePriority="1500" FramePriority="7500"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineColor="clRed"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineColor="39159"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineColor="2280512"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineColor="13421568"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineColor="16738346"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineColor="13566148"/>
+          <ahaOverviewGutter Background="6579300" Foreground="4210752" FrameColor="8947848"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaSpecialVisibleChars BackPriority="8100" ForePriority="8100" FramePriority="8100"/>
+          <ahaSyncroEditArea Background="clGray" BackPriority="2000" ForePriority="2000" FramePriority="2000"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaSyncroEditOther FrameColor="9744532" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaSyncroEditSync FrameColor="185" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTemplateEditCur FrameColor="13553152" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTemplateEditOther FrameColor="clMaroon" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTemplateEditSync FrameColor="11141290" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTextBlock Background="clHighlight" Foreground="15658734" BackPriority="7000" ForePriority="7000" FramePriority="7000" BackAlpha="96" ForeAlpha="128"/>
+          <ahaTopInfoHint Background="clPurple" Foreground="clYellow" FrameColor="clOlive" FrameStyle="slsDashed" BackPriority="8500" ForePriority="8500" FramePriority="8500"/>
+          <ahaUnknownBreakpoint Background="3997898" Foreground="14540253" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
+          <ahaWordGroup FrameColor="2752653" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+        </SchemeKurwish_Dark>
+      </Globals>
+      <LangPlain_Text Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+        </SchemeKurwish_Dark>
+      </LangPlain_Text>
+      <LangObjectPascal Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <Assembler Foreground="8698880"/>
+          <Comment Foreground="8947848" Style="fsItalic"/>
+          <Directive Foreground="6579384"/>
+          <Number Foreground="8962696" Style="fsBold"/>
+          <Reserved_word Foreground="clSkyBlue" Style="fsBold"/>
+          <String Foreground="45232"/>
+          <Symbol Foreground="clActiveCaption"/>
+        </SchemeKurwish_Dark>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Key Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <Comment Foreground="clGray"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Symbol Foreground="clAqua"/>
+          <Text Foreground="clBlack" Style="fsBold"/>
+        </SchemeKurwish_Dark>
+      </LangXML_document>
+      <LangHTML_document Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Comment Foreground="clGray"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <Identifier Style="fsBold"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <Symbol Foreground="clAqua"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <Value Foreground="16744448"/>
+        </SchemeKurwish_Dark>
+      </LangHTML_document>
+      <LangC__ Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Assembler Foreground="clLime"/>
+          <Comment Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Preprocessor Foreground="clGray"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <Space Foreground="clWindow"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangC__>
+      <LangPerl Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Pragma Style="fsBold"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <Space Foreground="clWindow"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Variable Style="fsBold"/>
+        </SchemeKurwish_Dark>
+      </LangPerl>
+      <LangJava Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Documentation Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <Space Foreground="clWindow"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Variable Foreground="clPurple"/>
+        </SchemeKurwish_Dark>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Documentation Foreground="clGray"/>
+          <Float Foreground="clBlue"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <Octal Foreground="clBlue"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <SyntaxError Foreground="clRed"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeKurwish_Dark>
+      </LangPython>
+      <LangPHP Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangPHP>
+      <LangSQL Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Data_type Style="fsBold"/>
+          <Default_packages Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <Function Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangSQL>
+      <LangCascading_style_sheets Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+        </SchemeKurwish_Dark>
+      </LangCascading_style_sheets>
+      <LangJavascript Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGray"/>
+          <Number Foreground="clFuchsia"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+        </SchemeKurwish_Dark>
+      </LangJavascript>
+      <LangDiff_File Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <Unknown_word Style="fsItalic"/>
+        </SchemeKurwish_Dark>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clNavy" Style="fsItalic"/>
+          <Key Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <Variable Foreground="clGreen"/>
+        </SchemeKurwish_Dark>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Number Foreground="clFuchsia"/>
+          <Section Style="fsBold"/>
+        </SchemeKurwish_Dark>
+      </LangINI_file>
+      <Langpo_language_files Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Flags Foreground="clTeal"/>
+          <Identifier Foreground="clGreen" Style="fsBold"/>
+          <Key Style="fsBold"/>
+          <Previous_value Foreground="clOlive" Style="fsItalic"/>
+          <String Foreground="clFuchsia"/>
+        </SchemeKurwish_Dark>
+      </Langpo_language_files>
+      <LangPike Version="13">
+        <SchemeKurwish_Dark>
+          <ahaBracketMatch Background="clNone"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" Style="" BackAlpha="0"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackAlpha="0"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaIncrementalSearch Background="3199088"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" Style="" BackAlpha="0"/>
+          <ahaLineHighlight Background="clNone"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="clNone"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="clNone"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" ForeAlpha="0"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackAlpha="0"/>
+          <ahaWordGroup FrameColor="clRed"/>
+        </SchemeKurwish_Dark>
+      </LangPike>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
