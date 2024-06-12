@@ -18,7 +18,7 @@
           <ahaGutter Background="clBlack"/>
           <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
           <ahaHighlightAll Background="34952" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
-          <ahaHighlightWord Background="3158064" FrameColor="clSilver" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaHighlightWord Background="8936238" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
           <ahaIdentComplWindow Background="3552822"/>
           <ahaIdentComplWindowBorder Foreground="7039851"/>
           <ahaIdentComplWindowHighlight Foreground="45056"/>
@@ -49,7 +49,7 @@
           <ahaTemplateEditCur FrameColor="13553152" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
           <ahaTemplateEditOther FrameColor="clMaroon" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
           <ahaTemplateEditSync FrameColor="11141290" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
-          <ahaTextBlock Background="clHighlight" Foreground="15658734" BackPriority="7000" ForePriority="7000" FramePriority="7000" BackAlpha="96" ForeAlpha="128"/>
+          <ahaTextBlock Background="15248957" Foreground="15658734" BackPriority="7000" ForePriority="7000" FramePriority="7000" BackAlpha="96" ForeAlpha="128"/>
           <ahaTopInfoHint Background="clPurple" Foreground="clYellow" FrameColor="clOlive" FrameStyle="slsDashed" BackPriority="8500" ForePriority="8500" FramePriority="8500"/>
           <ahaUnknownBreakpoint Background="3997898" Foreground="14540253" BackPriority="500" ForePriority="500" FramePriority="500" BackAlpha="192"/>
           <ahaWordGroup FrameColor="2752653" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
@@ -64,6 +64,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -92,6 +93,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -112,12 +114,12 @@
           <ahaWordGroup FrameColor="clRed"/>
           <ahaDefault Background="clBlack" Foreground="clWhite"/>
           <Assembler Foreground="8698880"/>
-          <Comment Foreground="8947848" Style="fsItalic"/>
+          <Comment Foreground="8947848"/>
           <Directive Foreground="6579384"/>
           <Number Foreground="8962696" Style="fsBold"/>
-          <Reserved_word Foreground="clSkyBlue" Style="fsBold"/>
+          <Reserved_word Foreground="15846054" Style="fsBold"/>
           <String Foreground="45232"/>
-          <Symbol Foreground="clActiveCaption"/>
+          <Symbol Foreground="15248957"/>
         </SchemeKurwish_Dark>
       </LangObjectPascal>
       <LangLazarus_Form_definition Version="13">
@@ -129,6 +131,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -163,6 +166,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -204,6 +208,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -241,6 +246,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -278,6 +284,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -315,6 +322,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -351,6 +359,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -386,6 +395,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -427,6 +437,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -461,6 +472,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -501,6 +513,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -530,6 +543,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -564,6 +578,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -603,6 +618,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -636,6 +652,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -668,6 +685,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
@@ -703,6 +721,7 @@
           <ahaErrorLine Background="5284095" Foreground="clBlack" BackAlpha="0"/>
           <ahaExecutionPoint Background="clBlue" Foreground="clWhite"/>
           <ahaHighlightAll Background="clYellow"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver"/>
           <ahaIdentComplWindowHighlight Foreground="clLime"/>
           <ahaIfDefBlockInactive ForeAlpha="0"/>
           <ahaIncrementalSearch Background="3199088"/>
